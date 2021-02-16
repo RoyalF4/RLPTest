@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RLPTest</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="LogIn">Login</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="SignUp">Sign Up</string>
+</resources>
